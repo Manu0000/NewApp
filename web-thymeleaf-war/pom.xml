@@ -84,8 +84,8 @@
             </plugin>
 
         </plugins>
-	    
-	    <distributionManagement>
+	    </build>
+	    	    <distributionManagement>
 
 	<snapshotRepository>
 		<id>snapshots</id>
@@ -99,6 +99,4 @@
 	</repository>
 
 </distributionManagement>
-
-    </build>
-</project>
+    </project>
